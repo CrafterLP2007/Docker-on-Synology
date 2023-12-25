@@ -16,7 +16,7 @@ Make sure that:
 
 ⚠️ Make sure you are logging into ssh as an admin user ⚠️
 
-Get the latest docker version: [here](https://download.docker.com/linux/static/stable/aarch64/)*for example: docker-24.0.7.tgz*
+Get the latest docker version: [here](https://download.docker.com/linux/static/stable/aarch64/) *for example: docker-24.0.7.tgz*
 
 1. Execute the following command in the terminal to download docker:
 
