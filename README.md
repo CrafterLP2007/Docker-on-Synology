@@ -77,7 +77,6 @@ To run docker on the startup, you need to create a new execute script that run t
    
    > Replace **[password]** to the password of your user
 
-<p></p>
 6. Click **Ok** to create the new Task!
 
 ## Part 3 | Installation of Portainer
@@ -90,11 +89,12 @@ To run docker on the startup, you need to create a new execute script that run t
    
    > It will create a new docker container with portainer.
 
-<p></p>
+#
 2. Go in your browser on http://[ip_of_diskstation]:9000
 
    > Replace **[ip_of_diskstation]** to the IP-Address of you Diskstation!
 
+#
 ## Part 4 | Installation Completed
 
 If you did everything right, it should work. If it doesn't work, you can write me an email <a href="mailto:crafterlp2007@gmail.com">crafterlp2007@gmail.com</a>
