@@ -54,7 +54,7 @@ Get the latest docker version: [here](https://download.docker.com/linux/static/s
 
 #
 5. You can try to run docker with the following command:
-   ```bash
+   ```Bash
     sudo dockerd
    ```
    > If it doesn't work, please check whether you have done everything correctly according to the instructions. If it's just a permission error, you don't have enough permissions to the Synology user!
