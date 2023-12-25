@@ -8,7 +8,7 @@ This tutorial should work on all Synology Diskstations. I tested it on the DS118
 
 Make sure that:
 - the Diskstation have an internet connection
-- [the nano command in linux for the Diskstation](https://think.unblog.ch/nano-auf-synology-nas-installieren/)
+- [the nano command in linux for the Diskstation exists](https://think.unblog.ch/nano-auf-synology-nas-installieren/)
 - you have access and administrator permissions to the DSM
 - [the ssh service is enabled](https://kb.synology.com/de-de/DSM/tutorial/How_to_login_to_DSM_with_root_permission_via_SSH_Telnet)
 
