@@ -26,7 +26,6 @@ Get the latest docker version: [here](https://download.docker.com/linux/static/s
    
    > Replace **[version]** to the newest version
 
-<p></p>
 2. Unpack the tgz file:
    ```Bash
     sudo tar xzvf [file]
