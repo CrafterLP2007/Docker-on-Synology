@@ -97,4 +97,4 @@ To run docker on the startup, you need to create a new execute script that run t
 #
 ## Part 4 | Installation Completed
 
-If you did everything right, it should work. If it doesn't work, you can write me an email <a href="mailto:crafterlp2007@gmail.com">crafterlp2007@gmail.com</a>
+If you did everything right, it should work. If it doesn't work, you can create a new issue!
