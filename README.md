@@ -17,7 +17,7 @@ Make sure that:
 ⚠️ Make sure you are logging into ssh as an admin user ⚠️
 
 Get the latest docker version: [here](https://download.docker.com/linux/static/stable/aarch64/) *for example: docker-24.0.7.tgz*
-
+#
 1. Execute the following command in the terminal to download docker:
 
    ```Bash
@@ -26,22 +26,23 @@ Get the latest docker version: [here](https://download.docker.com/linux/static/s
    
    > Replace **[version]** to the newest version
 
+#
 2. Unpack the tgz file:
    ```Bash
     sudo tar xzvf [file]
    ```
 
-   > Replace **[file]** to the file name
+   > Replace [file] to the file name
 
-<p></p>
+#
 3. You need to copy all directories and files of the unpacked directory to the linux commands:
    ```Bash
     sudo cp [name]/* /usr/bin/
    ```
 
-      > Replace **[name]** to the name of the unpacked docker file
+      > Replace [name] to the name of the unpacked docker file
 
-<p></p>
+#
 4. Create the /etc/docker/daemon.json configuration file with the following configuration:
    ```json
     {
@@ -51,7 +52,7 @@ Get the latest docker version: [here](https://download.docker.com/linux/static/s
    }
    ```
 
-<p></p>
+#
 5. You can try to run docker with the following command:
    ```bash
     sudo dockerd
